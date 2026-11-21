@@ -124,7 +124,7 @@ WIRE = [
         "UK and EU clinch food, emissions and youth deals; stuck on tuition fees",
         "PM Burnham in Brussels: all options on table, including EU return",
         "Young protesters hit the streets across Europe",
-        "De Villepin launches French presidential bid, warns against Le Pen",
+        "de Villepin launches French presidential bid, warns against Le Pen",
         "BBC faces deeper cuts; audit office flags risk in 500m savings plan",
         "Spain's 69-dead rail crash probe: EU rail agency to assist Madrid",
         "19 crew airlifted after cargo ship runs aground off SW France",
